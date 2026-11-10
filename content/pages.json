@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "party-animals",
+    "path": "/party-animals/",
+    "title": "Party Animals"
+  },
+  {
+    "slug": "green-reapers",
+    "path": "/green-reapers/",
+    "title": "Green Reapers"
+  },
+  {
+    "slug": "game-jams",
+    "path": "/game-jams/",
+    "title": "Game Jams"
+  },
+  {
+    "slug": "slice-and-dice",
+    "path": "/slice-and-dice/",
+    "title": "Slice and Dice"
+  },
+  {
+    "slug": "chefs-shift",
+    "path": "/chefs-shift/",
+    "title": "The Chef’s Shift"
+  },
+  {
+    "slug": "catfishing",
+    "path": "/catfishing/",
+    "title": "Catfishing"
+  },
+  {
+    "slug": "garuda-eleven",
+    "path": "/garuda-eleven/",
+    "title": "Garuda Eleven Metaleague"
+  },
+  {
+    "slug": "tagtag",
+    "path": "/tagtag/",
+    "title": "TagTag"
+  },
+  {
+    "slug": "slime-haven",
+    "path": "/slime-haven/",
+    "title": "Slime Haven"
+  },
+  {
+    "slug": "evermore-knights",
+    "path": "/evermore-knights/",
+    "title": "Evermore Knights"
+  },
+  {
+    "slug": "kembang-kota",
+    "path": "/kembang-kota/",
+    "title": "Kembang Kota"
+  },
+  {
+    "slug": "anima-versa",
+    "path": "/anima-versa/",
+    "title": "Anima Versa"
+  },
+  {
+    "slug": "pocong",
+    "path": "/pocong/",
+    "title": "Puncak Pocong"
+  },
+  {
+    "slug": "gorolong",
+    "path": "/gorolong/",
+    "title": "Go Roll Cat"
+  },
+  {
+    "slug": "tabletop-game-projects",
+    "path": "/tabletop-game-projects/",
+    "title": "Board Game Projects"
+  },
+  {
+    "slug": "resume",
+    "path": "/resume/",
+    "title": "Resume"
+  },
+  {
+    "slug": "blog",
+    "path": "/blog/",
+    "title": "Blog"
+  },
+  {
+    "slug": "contact",
+    "path": "/contact/",
+    "title": "Contact"
+  },
+  {
+    "slug": "about",
+    "path": "/about/",
+    "title": "About"
+  },
+  {
+    "slug": "home",
+    "path": "/",
+    "title": "Commercial Projects"
+  },
+  {
+    "slug": "sample-page",
+    "path": "/sample-page/",
+    "title": "Sample Page"
+  }
+]

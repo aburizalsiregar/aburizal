@@ -1,0 +1,28 @@
+﻿html { scroll-behavior: smooth; }
+#header-section { position: sticky; top: 0; z-index: 100; }
+#nav-toggle { background: none; border: 0; border-radius: 0; color: #333; padding-left: 0; padding-bottom: 0; font-size: 14px; }
+#nav-toggle:focus-visible, a:focus-visible { outline: 2px solid #03c4eb; outline-offset: 4px; }
+@media (min-width: 1141px) { #nav-toggle { display: none; } }
+@media (max-width: 1140px) {
+  .main-navigation .onepress-menu.is-open { height: auto; overflow: visible; z-index: 1001; display: block; position: absolute; top: 100%; left: 0; width: 100%; background: white; border-top: 1px solid #eee; box-shadow: 0 5px 10px #0001; }
+  .onepress-menu.is-open > li { float: none; display: block; }
+  .onepress-menu.is-open > li > a { line-height: 42px; padding: 0 20px; }
+}
+iframe { max-width: 100%; }
+.wp-block-embed__wrapper iframe { width: 100%; aspect-ratio: 16 / 9; height: auto; }
+@media (max-width: 600px) { .site-branding .no-logo-img.has-desc .site-description { font-size: 10px; } }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+/* Native button replaces the theme's anchor-based toggle. */
+@media (max-width: 1140px) {
+  #nav-toggle { display: inline-flex; align-items: center; gap: 10px; height: 75px; margin: 0; padding: 0; line-height: 1; font-size: 12px; text-transform: uppercase; position: static; }
+  #nav-toggle span { position: relative; top: auto; left: auto; right: auto; margin: 0; width: 22px; }
+  #nav-toggle span::before, #nav-toggle span::after { width: 22px; }
+}
+@media (max-width: 1140px) {
+  #nav-toggle { width: auto; overflow: visible; }
+  #nav-toggle span { flex-shrink: 0; }
+}
+@media (max-width: 1140px) {
+  .main-navigation .onepress-menu.is-open { top: 75px; }
+}

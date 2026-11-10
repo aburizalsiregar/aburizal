@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.reference/
+.vercel/
+test-results/
+.env*
+!.env.example
+verification/*.png
